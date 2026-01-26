@@ -20,8 +20,8 @@ Exit Poll ผลแบบคูหา ที่สถานเอกอัคร
 
 ผมเดินทางจากโตรอนโต้ไปออตตาว่า โดยเอาเก้าอี้ไปตั้งหน้าทางออกหลักของตึกที่มีคูหาอยู่ด้านใน นั่งอยู่ตั้งแต่คูหาเปิดจนปิด
 
-<img width="200" height="400" alt="travel" src="https://github.com/user-attachments/assets/3d399830-0c19-4b47-bf6c-fd5d28721825" />
-<img width="200" height="400" alt="chair" src="https://github.com/user-attachments/assets/1f58c21c-9778-48c3-895f-4c2e7ce951b6" />
+<img width="300" height="600" alt="travel" src="https://github.com/user-attachments/assets/3d399830-0c19-4b47-bf6c-fd5d28721825" />
+<img width="300" height="600" alt="chair" src="https://github.com/user-attachments/assets/1f58c21c-9778-48c3-895f-4c2e7ce951b6" />
 
 ในการเก็บข้อมูล ได้ใช้[แอพพลิเคชั่นเว็บบนมือถือ](https://github.com/gkawin/exitpoll) เป็นแอพพลิเคชั่นที่มีให้กดตอบคำถามสองข้อ 
 
@@ -90,6 +90,9 @@ Ratthamnoon Prakitpong
 - พี่ Kawin Glomjai ที่ชอบทำแอพพลิเคชั่นเก็บข้อมูล และตรวจงานเขียนนี้
 - พี่เล็ก ณ กรุงออตตาว่า และ พี่ Pajaree Townsend ณ กรุงมอนเทรียล ที่ช่วยแบ่งปันถุงร้อน ผ้าพันคอ และอื่นๆให้
 - ทีมงานสถานทูตไทย ณ กรุงออตตาว่า ที่ช่วยแบ่งปันของกิน ให้ความร่วมมือ และอำนวยความสะดวก
+<img width="300" height="600" alt="food" src="https://github.com/user-attachments/assets/8795ebfa-0fae-4754-89db-927e236b2050" />
+<img width="300" height="600" alt="clothes" src="https://github.com/user-attachments/assets/1182b5e8-584e-47ea-ae7f-3c56345556c2" />
+
 
 ## หมายเหตุ
 
