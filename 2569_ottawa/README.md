@@ -83,13 +83,13 @@ Exit Poll ผลแบบคูหา ที่สถานเอกอัคร
 
 ## ผู้จัดทำ
 
-Ratthamnoon Prakitpong 
+[Ratthamnoon Prakitpong](https://github.com/rprakitpong)
 
 ### และขอขอบคุณเป็นพิเศษแก่
 
-- พี่ Kawin Glomjai ที่ชอบทำแอพพลิเคชั่นเก็บข้อมูล และตรวจงานเขียนนี้
+- พี่ [Kawin Glomjai](https://github.com/gkawin) ที่ชอบทำแอพพลิเคชั่นเก็บข้อมูล และตรวจงานเขียนนี้
 - พี่เล็ก ณ กรุงออตตาวา และ พี่ Pajaree Townsend ณ กรุงมอนเทรียล ที่ช่วยแบ่งปันถุงร้อน ผ้าพันคอ และอื่นๆให้
-- ทีมงานสถานทูตไทย ณ กรุงออตตาวา ที่ช่วยแบ่งปันของกิน ให้ความร่วมมือ และอำนวยความสะดวก
+- [ทีมงานสถานทูตไทย ณ กรุงออตตาวา](https://www.facebook.com/RoyalThaiEmbassyOttawa) ที่ช่วยแบ่งปันของกิน ให้ความร่วมมือ และอำนวยความสะดวก
 <img width="300" height="600" alt="food" src="https://github.com/user-attachments/assets/8795ebfa-0fae-4754-89db-927e236b2050" />
 <img width="300" height="600" alt="clothes" src="https://github.com/user-attachments/assets/1182b5e8-584e-47ea-ae7f-3c56345556c2" />
 
